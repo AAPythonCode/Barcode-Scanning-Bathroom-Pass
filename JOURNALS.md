@@ -23,4 +23,30 @@ Wow, I sincerely wish this section didn't exist! However, we all encounter these
 
 Firstly, one of the major tedious tasks of the building process was finding all of the parts on AliExpress. Sure, there were lots of listings for the parts I needed, but I was struggling to find good prices for the parts. Thankfully, after around 10ish minutes, I was able to find three listings that would allow my project to cost less than 30 dollars! They will all be in the BOM, as well as [on the whiteboard I used](https://miro.com/app/board/uXjVHwO0I8I=/?share_link_id=59015536251). 
 
-Secondly, another tedious task I had to overcome was finding all of the data sheets and wiring data for each component! A major example was the EWAWGIB barcode scanning module. While I was trying to figure out how to wire its TTL interface, I realized it used a ribbon cable (thanks a lot, EVAWGIB 🙄). So, I had to find two things: a converter that would convert the ribbon cable's pins into 
+Secondly, another tedious task I had to overcome was finding all of the data sheets and wiring data for each component! A major example was the EWAWGIB barcode scanning module. While I was trying to figure out how to wire its TTL interface, I realized it used a ribbon cable (thanks a lot, EVAWGIB 🙄). So, I had to find two things: a converter that would convert the ribbon cable's pins into the standard 2.54mm spacing, and diagram on what pins needed what to run the EVAWGIB safely. Thankfully, I found both of these after around 5ish minutes (look in the images for the diagram and the BOM for the converter)!
+
+### Images
+Here's the images for the diagram I made, as well as other images of diagrams and other miscellaneous images:
+
+The full diagram:
+<img width="1573" height="904" alt="Screenshot 2026-08-30 at 12 36 24 PM" src="https://github.com/user-attachments/assets/29707a1e-c3b0-40ed-b7ef-6f86570ff3f2" />
+
+The wiring part of the diagram:
+<img width="2033" height="907" alt="Screenshot 2026-08-30 at 12 37 11 PM" src="https://github.com/user-attachments/assets/28d9042b-a1bf-4ba8-aebf-641e181bdadf" />
+
+(A very bad) CAD design:
+<img width="1208" height="600" alt="Screenshot 2026-08-30 at 12 37 35 PM" src="https://github.com/user-attachments/assets/fd8a274f-a888-46a0-bc05-cdf5cbd433d0" />
+
+
+The diagram I found (hallelujah!!!):
+
+<img width="750" height="1632" alt="image" src="https://github.com/user-attachments/assets/f8d6fac6-2de4-4877-980d-c097a5797ab0" />
+
+### Links
+Here's some of the links to the things I've created so far:
+
+The Design Whiteboard: https://miro.com/app/board/uXjVHwO0I8I=/?share_link_id=880799899556
+
+### Total Hours Spent: 4.5 Hours
+
+
