@@ -1,5 +1,5 @@
 # Journals
-Hey! I'm Ayaan, a 13 year-old who's spend ~1.5 years on Hack Club! This is where I'll post all of my journals, specifically made for the program [Gadget Market](https://gadget.hackclub.com).
+Hey! I'm Ayaan, a 13 year-old who's spent ~1.5 years on Hack Club! This is where I'll post all of my journals, specifically made for the program [Gadget Market](https://gadget.hackclub.com).
 
 ## 8/25/26
 ### A Summary Of What I Did Today
@@ -49,4 +49,31 @@ The Design Whiteboard: https://miro.com/app/board/uXjVHwO0I8I=/?share_link_id=88
 
 ### Total Hours Spent: 4.5 Hours
 
+## 8/27-8/30
+### A Summary Of The Past 3 Days
+Wow, those three days went by in a blink! Anyways, these past days, time was poured into the CAD design of the Bathroom Pass, and I'm proud to say the CAD design is finished! I took inspiration from my V1 design and incorporated it into the V2, so there aren't many differences. However, I had to add a mount for the EVAWGIB, and I also had to add a place for the servo, which would move the ID up and down to give it back to the person. 
 
+### Researching 
+Firstly, I had to research the dimensions for the main parts I was going to be using in the project, (this did not include the ESP32-C3; I was planning to wire it with a perf board and just hot glue it on), which were the EMAX ES08MD (servo) and the EVAWGIB DP08 (barcode scanner). For the EVAWGIB, I just used the data sheet that I found on 8/25/26 (previous journal entry). It wasn't too hard to find the dimensions for the servo, either; I just went onto GrabCAD and got a .STEP file of the servo and used its dimensions. In the end, I also tested that the parts fit in their mounts (which they thankfully did). 
+
+### Tedious Tasks
+Thankfully, I didn't encounter too many harsh problems, so I'm not including them in this journal entry. However, I did have to solve some tedious tasks!
+
+Firstly, one of the major tedious tasks was using the Derived tool in Onshape! The issue I encountered was trying to align the Derived parts using Mate Connectors, which did not align at all! So, once they were placed, I had to manually use the Transform tool to align the parts correctly. However, once they were in position, I could test if the dimensions on the 3D print were correct (which they did). So, in the end, it was worth it :)
+
+### Images
+This is for the visual learners out there! :P
+
+The FULL CAD design:
+<img width="780" height="895" alt="Screenshot 2026-08-30 at 5 52 55 PM" src="https://github.com/user-attachments/assets/2286e0c3-41bc-4509-bfb1-1221ec004275" />
+
+The CAD design without the parts in their mounts:
+<img width="880" height="943" alt="Screenshot 2026-08-30 at 5 53 33 PM" src="https://github.com/user-attachments/assets/1a21aa01-9787-4713-b666-fc7489a39608" />
+
+The Rectangular Pushing Plate (used to align the ID so the servo can push it back up):
+<img width="823" height="411" alt="Screenshot 2026-08-30 at 5 54 32 PM" src="https://github.com/user-attachments/assets/a1809b06-475e-43cc-81ad-dfc91b2ed528" />
+
+The EVAWGIB (used for testing the assembly, won't be printed):
+<img width="1451" height="989" alt="Screenshot 2026-08-30 at 5 55 33 PM" src="https://github.com/user-attachments/assets/b356b678-4d28-4394-b0be-a96f14185b12" />
+
+### Total Time Spent (Over Past Three Days): 7.5 Hours
