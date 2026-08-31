@@ -1,4 +1,4 @@
-# Barcode-Scanning-Bathroom-Pass
+# The ID Eater
 A bathroom pass that has the ability to scan a school ID's barcode and output the ID onto a Hall Pass monitor. 
 
 Hey fellow viewer! I'm Ayaan, a 13 year-old who's spent ~1.5 working with [Hack Club](hackclub.com)! I made this project tailored for my school (however feel free to use it under the MIT license)!
