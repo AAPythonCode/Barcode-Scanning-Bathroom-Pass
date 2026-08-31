@@ -37,7 +37,7 @@ Here's the Bill Of Materials if you want to build this yourself:
 | -----|-------|-----|
 | EVAWGIB 1D Barcode Scanner | $13.90 | [Link](https://t.ly/4ARFP) |
 | EMAX ES08MD Servo | $5.59 | [Link](https://t.ly/3Bg_y) |
-| ESP32-C3 | $3.39 | [Link](https://t.ly/GQSVB) |
+| ESP32-C3 | $2.59 | [Link](https://t.ly/GQSVB) |
 | Perf Board | $1.99 | [Link](https://t.ly/8iwan) |
 | FFC/FPC Converter | $1.99 | [Link](https://t.ly/gyBrI) |
 
