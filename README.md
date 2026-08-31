@@ -46,7 +46,7 @@ Here's the Bill Of Materials if you want to build this yourself:
 ## Images
 Visual learners rejoice!!!!!!
 
-### The Design:
+### The Design ([Here's the link if you want it](https://miro.com/app/board/uXjVHwO0I8I=/?share_link_id=500169589295)):
 <img width="1563" height="883" alt="Screenshot 2026-08-30 at 6 41 34 PM" src="https://github.com/user-attachments/assets/1d62b553-9b00-4002-9bd0-19964badc67c" />
 
 ### The CAD:
